@@ -1,0 +1,15 @@
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\bin\Debug\net6.0\SistemaDeMusica.exe
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\bin\Debug\net6.0\SistemaDeMusica.deps.json
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\bin\Debug\net6.0\SistemaDeMusica.runtimeconfig.json
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\bin\Debug\net6.0\SistemaDeMusica.dll
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\bin\Debug\net6.0\SistemaDeMusica.pdb
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.AssemblyInfo.cs
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.dll
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\refint\SistemaDeMusica.dll
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.pdb
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\SistemaDeMusica.genruntimeconfig.cache
+C:\Users\mathe\source\repos\SistemaDeMusica\SistemaDeMusica\obj\Debug\net6.0\ref\SistemaDeMusica.dll
